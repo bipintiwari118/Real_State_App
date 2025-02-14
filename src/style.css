@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn_color{
+    background:linear-gradient(97.65deg,#60BBEE 0.33%,#0A72AD 93.35%);
+}
+
+.hero_section{
+    background:linear-gradient(219.84deg,#474747 4.14%,#222222 44.22%);
+}
+
+.second_hero{
+    background:linear-gradient(97.3deg,#399FD8 -6.96%,#0775B4 23.5%,#003756 92.79%);
+}
